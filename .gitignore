@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+dist/
+build/
+client/node_modules/
+server/__pycache__/
+server/.env
+videos/
+test_qr.png
